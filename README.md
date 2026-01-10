@@ -2,7 +2,7 @@
 
 This project is a comprehensive Machine Learning solution designed to detect fraudulent financial transactions. It includes data analysis, model training, and a real-time prediction interface built with Streamlit.
 
-# 📌 Project Overview
+## 📌 Project Overview
 Financial fraud costs the global economy billions annually. This project leverages historical transaction data to build a predictive model that identifies suspicious activities based on transaction types, amounts, and account balance changes.
 
 ### Key Features:
